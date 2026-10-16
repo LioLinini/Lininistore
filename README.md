@@ -1,3 +1,3 @@
 # pokemon
-Hlinini
+mam rad pokemoni
 
