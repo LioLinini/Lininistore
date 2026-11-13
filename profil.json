@@ -1,0 +1,16 @@
+{
+  "jmeno": "Alex",
+  "vek": 20,
+  "je_plnolety": true,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "stat": "Ceska republika",
+    "psp": "11000"
+  },
+  "konicky": [
+    "fotbal",
+    "programovani",
+    "videohry"
+  ]
+}
